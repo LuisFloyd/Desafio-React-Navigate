@@ -1,0 +1,20 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  background: rgb(90, 90, 90);
+  padding: 20px;
+  color: white;
+}
+
+.active {
+  color: red;
+  margin-left: 30px;
+}
+
+.inactive {
+  color: white;
+  margin-left: 30px;
+}
